@@ -1,3 +1,3 @@
 # How to use
 
-Just open Main.exe and there you go!!! Just click space, and wait for a bit.
+Just open Launcher.bat and there you go!!! Just click space, and wait for a bit.
